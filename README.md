@@ -1,2 +1,4 @@
 # Wowie
-Wowie Gamejam
+Wowie Gamejam propject
+
+Theme: collaborate with AI
